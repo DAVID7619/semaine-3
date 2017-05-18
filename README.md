@@ -1,4 +1,4 @@
-# Semaine 3 Apprentissage et Exercices
+# Semaine 3 Apprentissages et Exercices
 # A propos de vous
 
 ## Débuter avec le HTML
